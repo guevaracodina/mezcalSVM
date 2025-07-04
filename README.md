@@ -76,7 +76,9 @@ Model and label encoder are saved to `models/` for reproducibility.
 ## Data Availability
 
 All image data and labels are archived at Zenodo:  
-🔗 [https://doi.org/DOI_PLACEHOLDER](https://doi.org/DOI_PLACEHOLDER)
+🔗 [https://doi.org/10.5281/zenodo.15810264](https://doi.org/10.5281/zenodo.15810264)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15810264.svg)](https://doi.org/10.5281/zenodo.15810264)
 
 ## Citation
 
